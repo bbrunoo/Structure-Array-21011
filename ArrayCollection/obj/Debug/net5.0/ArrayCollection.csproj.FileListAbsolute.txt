@@ -1,0 +1,16 @@
+C:\projetos\ams\1ano\semestre2\estruturarepetiçao\foreachcommand\ArrayCollection\bin\Debug\net5.0\ArrayCollection.exe
+C:\projetos\ams\1ano\semestre2\estruturarepetiçao\foreachcommand\ArrayCollection\bin\Debug\net5.0\ArrayCollection.deps.json
+C:\projetos\ams\1ano\semestre2\estruturarepetiçao\foreachcommand\ArrayCollection\bin\Debug\net5.0\ArrayCollection.runtimeconfig.json
+C:\projetos\ams\1ano\semestre2\estruturarepetiçao\foreachcommand\ArrayCollection\bin\Debug\net5.0\ArrayCollection.runtimeconfig.dev.json
+C:\projetos\ams\1ano\semestre2\estruturarepetiçao\foreachcommand\ArrayCollection\bin\Debug\net5.0\ArrayCollection.dll
+C:\projetos\ams\1ano\semestre2\estruturarepetiçao\foreachcommand\ArrayCollection\bin\Debug\net5.0\ref\ArrayCollection.dll
+C:\projetos\ams\1ano\semestre2\estruturarepetiçao\foreachcommand\ArrayCollection\bin\Debug\net5.0\ArrayCollection.pdb
+C:\projetos\ams\1ano\semestre2\estruturarepetiçao\foreachcommand\ArrayCollection\obj\Debug\net5.0\ArrayCollection.csproj.AssemblyReference.cache
+C:\projetos\ams\1ano\semestre2\estruturarepetiçao\foreachcommand\ArrayCollection\obj\Debug\net5.0\ArrayCollection.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\ams\1ano\semestre2\estruturarepetiçao\foreachcommand\ArrayCollection\obj\Debug\net5.0\ArrayCollection.AssemblyInfoInputs.cache
+C:\projetos\ams\1ano\semestre2\estruturarepetiçao\foreachcommand\ArrayCollection\obj\Debug\net5.0\ArrayCollection.AssemblyInfo.cs
+C:\projetos\ams\1ano\semestre2\estruturarepetiçao\foreachcommand\ArrayCollection\obj\Debug\net5.0\ArrayCollection.csproj.CoreCompileInputs.cache
+C:\projetos\ams\1ano\semestre2\estruturarepetiçao\foreachcommand\ArrayCollection\obj\Debug\net5.0\ArrayCollection.dll
+C:\projetos\ams\1ano\semestre2\estruturarepetiçao\foreachcommand\ArrayCollection\obj\Debug\net5.0\ref\ArrayCollection.dll
+C:\projetos\ams\1ano\semestre2\estruturarepetiçao\foreachcommand\ArrayCollection\obj\Debug\net5.0\ArrayCollection.pdb
+C:\projetos\ams\1ano\semestre2\estruturarepetiçao\foreachcommand\ArrayCollection\obj\Debug\net5.0\ArrayCollection.genruntimeconfig.cache
