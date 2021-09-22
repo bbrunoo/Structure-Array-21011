@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using static System.Console;
 
 namespace ArrayCollection
@@ -7,34 +7,22 @@ namespace ArrayCollection
     {
         static void Main(string[] args)
         {
-            string[] alunosAMS =  new string[5]{
-                "Dani",
-                "Maju",
-                "Alcino",
-                "Bruno",
-                "Talita",
-            };
+            string[] alunosAMS =  new string[5];
+              alunosAMS[0] =  "Dani";
+              alunosAMS[1] =  "Maju";
+              alunosAMS[2] =  "Jeferson";
+              alunosAMS[3] =  "Bruno";
+              alunosAMS[4] =  "Talita";
 
-         
-            WriteLine(alunosAMS[2]);
+            Console.WriteLine(alunosAMS[2]);
         
             alunosAMS[2] = "Jeferson"; 
 
             WriteLine($"Novo valor no index 2: {alunosAMS[2]}");
 
-            WriteLine("-----------------------------------------------");
-   
-
-            foreach (string aluno in alunosAMS)
+            for(int i = 0; i < alunosAMS.Length; i++) 
             {
-                WriteLine(aluno);
-            }
-
-            WriteLine("-----------------------------------------------");
-
-            for(int i = 0; i < alunosAMS.Lenght; i++) 
-            {
-                WriteLine(alunosAMS[i]);
+                WriteLine($"os nomes sao: {alunosAMS[i]}");
             } 
         }
     }
