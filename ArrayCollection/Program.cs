@@ -8,8 +8,8 @@ namespace ArrayCollection
         static void Main(string[] args)
         {
             string[] alunosAMS =  new string[5];
-              alunosAMS[0] =  "Dani";
-              alunosAMS[1] =  "Maju";
+              alunosAMS[0] =  "Cezar";
+              alunosAMS[1] =  "Carlos";
               alunosAMS[2] =  "Jeferson";
               alunosAMS[3] =  "Bruno";
               alunosAMS[4] =  "Talita";
